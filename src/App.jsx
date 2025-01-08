@@ -1,9 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 
 function App() {
-  return <h1>Hello!</h1>
+  return <h1 className='text-8xl'>Nunito!</h1>
 }
 
 export default App
